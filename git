@@ -6,3 +6,13 @@ connect the github to jenkins bye using scm (source code mangement)
             user id and passowrd
             master/main check
           
+                        build triggers
+                        give the option github hook trigeer for gitscm polling 
+            
+            
+            in git hub 
+            opein repo
+            setting 
+            webhook
+            create link  the new by using ngrok 
+            create one webhook 
